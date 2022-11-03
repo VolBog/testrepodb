@@ -1,0 +1,13 @@
+{
+  "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
+  "surname" : "Nicolas",
+  "name" : "Linn",
+  "flags" : [ "PersonFlagEntry_Long_Leave_yofMZ7uIJpKBNM7Ro9Nc", "PersonFlagEntry_Ringfence_2O1rIBnWZZvan9u0wPHb" ],
+  "active" : false,
+  "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
+  "id" : "Person_Linn_Nicolas_PRe71CYwR5nflcUKAb02",
+  "std_hours" : null,
+  "email" : "Veda@email.com",
+  "doj" : 1545952808837,
+  "rank_grade" : "PersonRankGrade_31_1_6bdeYQJrIt97fOFvPdlT"
+}

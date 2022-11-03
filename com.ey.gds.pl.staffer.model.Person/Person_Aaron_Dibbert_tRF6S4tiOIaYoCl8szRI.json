@@ -1,0 +1,16 @@
+{
+  "comments" : [ "PersonComment__UkeyLHjVlDJWDhBRJa5D" ],
+  "flags" : [ "PersonFlagEntry_Long_Leave_yofMZ7uIJpKBNM7Ro9Nc", "PersonFlagEntry_Ringfence_2O1rIBnWZZvan9u0wPHb" ],
+  "active" : false,
+  "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
+  "std_hours" : null,
+  "opportunities" : [ ],
+  "assigments" : [ ],
+  "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
+  "surname" : "Dibbert",
+  "name" : "Aaron",
+  "id" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
+  "email" : "Norbert@email.com",
+  "doj" : 1542522056505,
+  "rank_grade" : "PersonRankGrade_31_1_6bdeYQJrIt97fOFvPdlT"
+}

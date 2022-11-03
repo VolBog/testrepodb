@@ -1,0 +1,13 @@
+{
+  "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
+  "surname" : "Lind",
+  "name" : "Edgardo",
+  "flags" : [ "PersonFlagEntry_Long_Leave_yofMZ7uIJpKBNM7Ro9Nc", "PersonFlagEntry_Ringfence_2O1rIBnWZZvan9u0wPHb" ],
+  "active" : false,
+  "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
+  "id" : "Person_Edgardo_Lind_zDj47FraXdTKsg57ZqNF",
+  "std_hours" : null,
+  "email" : "Antonio@email.com",
+  "doj" : 751419366452,
+  "rank_grade" : "PersonRankGrade_31_1_6bdeYQJrIt97fOFvPdlT"
+}
