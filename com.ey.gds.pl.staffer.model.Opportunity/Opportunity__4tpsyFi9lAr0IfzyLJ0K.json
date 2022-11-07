@@ -1,9 +1,9 @@
 {
   "assigment_start_date" : 1669248000000,
-  "role" : "qd",
+  "role" : "                                 ",
   "probability" : 1,
   "opportunity_start_time" : null,
-  "description" : "FEGEGEGE",
+  "description" : "                                    ",
   "created_at" : 1667476542766,
   "active" : true,
   "project" : "Project_AXA_MOTOR_4KpfCiIO4g5ERaGv7qXI",
@@ -12,6 +12,6 @@
   "outcome_comments" : null,
   "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
   "finalized" : false,
-  "outcome_success" : null,
+  "outcome_success" : false,
   "id" : "Opportunity__4tpsyFi9lAr0IfzyLJ0K"
 }
