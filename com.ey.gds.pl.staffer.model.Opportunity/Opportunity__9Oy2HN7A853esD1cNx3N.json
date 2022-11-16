@@ -1,0 +1,17 @@
+{
+  "assigment_start_date" : 1669766400000,
+  "role" : "qd",
+  "probability" : 1,
+  "opportunity_start_time" : null,
+  "description" : "dgg",
+  "created_at" : 1668593193523,
+  "active" : true,
+  "project" : "Project_GEAS_nD4loojvTUSHKDVyROQp",
+  "opportunity_expiry_time" : 1669939200000,
+  "assigment_end_date" : 1667347200000,
+  "outcome_comments" : null,
+  "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
+  "finalized" : false,
+  "outcome_success" : null,
+  "id" : "Opportunity__9Oy2HN7A853esD1cNx3N"
+}
