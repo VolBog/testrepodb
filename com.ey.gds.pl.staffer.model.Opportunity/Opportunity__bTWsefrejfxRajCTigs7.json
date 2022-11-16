@@ -1,0 +1,17 @@
+{
+  "assigment_start_date" : 1669766400000,
+  "role" : "nfn",
+  "probability" : 2,
+  "opportunity_start_time" : null,
+  "description" : "df",
+  "created_at" : 1668599991694,
+  "active" : true,
+  "project" : "Project_AXA_MOTOR_4KpfCiIO4g5ERaGv7qXI",
+  "opportunity_expiry_time" : 1669766400000,
+  "assigment_end_date" : 1667347200000,
+  "outcome_comments" : null,
+  "lead" : "Person_Adela_Schuster_Dgn4FF6SLSaKsrWSO3PW",
+  "finalized" : false,
+  "outcome_success" : null,
+  "id" : "Opportunity__bTWsefrejfxRajCTigs7"
+}
