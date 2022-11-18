@@ -5,7 +5,7 @@
   "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
   "std_hours" : null,
   "opportunities" : [ ],
-  "assigments" : [ "Assigment__bTSWgksMVZFrNplM1rdb" ],
+  "assigments" : [ "Assigment__bTSWgksMVZFrNplM1rdb", "Assigment__7tsX8crrwnfSDGHT5l2N" ],
   "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
   "surname" : "Koss",
   "name" : "Adam",
