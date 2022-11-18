@@ -2,5 +2,6 @@
   "password" : "{bcrypt}$2a$10$9SS5JclMB4p9FD3PtIDbq.vQgkS9OwkY3hVvu8QTFwHgMIsWfLVRi",
   "roles" : [ "ADMIN", "USER" ],
   "id" : "User_maciek_3URIeyjCz5DkDm5Nl16I",
-  "username" : "maciek"
+  "username" : "maciek",
+  "person": "Person_Babette_Wintheiser_Vu0Uf8zyOGtZ5wqIuWLy"
 }

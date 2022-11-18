@@ -1,6 +1,0 @@
-{
-  "password" : "{bcrypt}$2a$10$9SS5JclMB4p9FD3PtIDbq.vQgkS9OwkY3hVvu8QTFwHgMIsWfLVRi",
-  "roles" : [ "ADMIN", "USER" ],
-  "id" : "User_maciek_RkVz1K5uIEassUvnAUxR",
-  "username" : "maciek"
-}
