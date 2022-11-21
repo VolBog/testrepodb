@@ -8,10 +8,10 @@
   "active" : true,
   "project" : "Project_AXA_MOTOR_4KpfCiIO4g5ERaGv7qXI",
   "opportunity_expiry_time" : 1670457600000,
-  "assigment_end_date" : 1668384000000,
+  "assigment_end_date" : 1669593600000,
   "outcome_comments" : null,
   "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
-  "finalized" : false,
-  "outcome_success" : null,
+  "finalized" : true,
+  "outcome_success" : true,
   "id" : "Opportunity__QcQ99iHClx1v7juVVel8"
 }
