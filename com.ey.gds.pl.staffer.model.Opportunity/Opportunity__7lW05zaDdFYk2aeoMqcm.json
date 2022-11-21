@@ -1,0 +1,17 @@
+{
+  "assigment_start_date" : 1668988800000,
+  "role" : "role",
+  "probability" : 1,
+  "opportunity_start_time" : null,
+  "description" : "description",
+  "created_at" : 1669049246965,
+  "active" : true,
+  "project" : "Project_GES_0IXxd2zqGc77DhNP6aDs",
+  "opportunity_expiry_time" : 1671494400000,
+  "assigment_end_date" : 1668384000000,
+  "outcome_comments" : null,
+  "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
+  "finalized" : false,
+  "outcome_success" : null,
+  "id" : "Opportunity__7lW05zaDdFYk2aeoMqcm"
+}
