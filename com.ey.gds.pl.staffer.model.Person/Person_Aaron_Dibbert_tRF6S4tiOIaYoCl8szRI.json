@@ -4,7 +4,7 @@
   "active" : false,
   "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
   "std_hours" : null,
-  "opportunities" : [ ],
+  "opportunities" : [ "Opportunity__0WWGsRIpksiTxUngiGB8" ],
   "assigments" : [ ],
   "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
   "surname" : "Dibbert",
