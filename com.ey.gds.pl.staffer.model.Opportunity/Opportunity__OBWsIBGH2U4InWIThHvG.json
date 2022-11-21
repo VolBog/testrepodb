@@ -1,0 +1,17 @@
+{
+  "assigment_start_date" : 1668988800000,
+  "role" : "role",
+  "probability" : 1,
+  "opportunity_start_time" : null,
+  "description" : "description",
+  "created_at" : 1669053058187,
+  "active" : true,
+  "project" : "Project_AXA_MOTOR_4KpfCiIO4g5ERaGv7qXI",
+  "opportunity_expiry_time" : 1671494400000,
+  "assigment_end_date" : null,
+  "outcome_comments" : null,
+  "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
+  "finalized" : false,
+  "outcome_success" : null,
+  "id" : "Opportunity__OBWsIBGH2U4InWIThHvG"
+}
