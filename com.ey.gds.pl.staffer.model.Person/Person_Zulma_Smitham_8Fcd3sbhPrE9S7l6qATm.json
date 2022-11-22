@@ -4,7 +4,7 @@
   "active" : false,
   "form_of_employment" : "PersonFormOfEmployment_B2B_7784Wfhqfrvs5eEBivsX",
   "std_hours" : null,
-  "opportunities" : [ "Opportunity__7lW05zaDdFYk2aeoMqcm", "Opportunity__bpAoNaxNDRrSaaEaPbAE", "Opportunity__QcQ99iHClx1v7juVVel8", "Opportunity__ZRl9m9sD7kXDxBJsnGnJ", "Opportunity__OBWsIBGH2U4InWIThHvG" ],
+  "opportunities" : [ "Opportunity__7lW05zaDdFYk2aeoMqcm", "Opportunity__bpAoNaxNDRrSaaEaPbAE", "Opportunity__QcQ99iHClx1v7juVVel8", "Opportunity__ZRl9m9sD7kXDxBJsnGnJ", "Opportunity__OBWsIBGH2U4InWIThHvG", "Opportunity__XgL4WmUq7TuEIns8puBK" ],
   "assigments" : [ ],
   "skills" : [ "PersonSkillEntry_BA_oEkm80yoqFr3A85OcgyL", "PersonSkillEntry_GW_IOPKIWgCRTwFCy7g6Bk4", "PersonSkillEntry_JAVA_pOYhv6q5vnRWzUGvCdPl", "PersonSkillEntry_REACT_129BhcrdgnXSFVixeehH" ],
   "surname" : "Smitham",
