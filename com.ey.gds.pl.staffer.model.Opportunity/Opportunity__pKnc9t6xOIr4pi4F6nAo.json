@@ -11,7 +11,7 @@
   "assigment_end_date" : 1670371200000,
   "outcome_comments" : null,
   "lead" : "Person_Aaron_Dibbert_tRF6S4tiOIaYoCl8szRI",
-  "finalized" : false,
-  "outcome_success" : null,
+  "finalized" : true,
+  "outcome_success" : false,
   "id" : "Opportunity__pKnc9t6xOIr4pi4F6nAo"
 }
